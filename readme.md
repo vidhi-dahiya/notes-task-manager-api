@@ -1,4 +1,4 @@
-# Week 2 Backend Module Work Completion
+# Backend Module Work Completion
 
 This project successfully fulfills the requirements for **Assignment 1 (To-Do List API)**, **Assignment 2 (Authentication System)**, and the **Mini Project (Secure Notes App Backend)**. 
 
